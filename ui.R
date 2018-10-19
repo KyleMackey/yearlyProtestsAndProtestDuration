@@ -98,8 +98,7 @@ br()
 
 ##
 ##  This is the main plot frame, where I
-##  show a plot of the generated distribution
-##  and post an image for University branding.
+##  show a plot of the generated distribution.
 ##
 mainPanel( 
     
