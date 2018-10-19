@@ -5,7 +5,7 @@
 ##    File:     ui.R                                            ##
 ##    Author:   Kyle Mackey                                     ##
 ##    Purpose:  Reactive plot of each country's yearly protests ##
-##              and yearly protest duration.                    ##                                     ##
+##              and yearly protest duration.                    ##                                     
 ##    Updated:  Oct 19, 2018                                    ##
 ##                                                              ##
 ##    Requires: protestnum.csv                                  ##
